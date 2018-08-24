@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1535123734582">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ya.com" resolutions="1x" timestamp="1535127998912">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="ya.css" crc="264075576" ref="ya"/>
     <file name="nomq_ya.css" crc="79635562" ref="ya"/>
-    <file name="index.css" crc="3853427904" ref="index"/>
-    <file name="nomq_index.css" crc="3794117676" ref="index"/>
-    <file name="travel.css" crc="489738340" ref="travel"/>
+    <file name="index.css" crc="147097046" ref="index"/>
+    <file name="nomq_index.css" crc="412337582" ref="index"/>
+    <file name="travel.css" crc="3840775500" ref="travel"/>
     <file name="nomq_travel.css" crc="274476573" ref="travel"/>
     <file name="love.css" crc="165573353" ref="love"/>
     <file name="nomq_love.css" crc="4091465235" ref="love"/>
@@ -22,14 +22,13 @@
     <file name="require.js" crc="4157109226" ref="index:ya:travel:love:hate"/>
   </folder>
   <folder name="images">
-    <file name="home-favicon.ico" crc="3936835358" ref="index"/>
     <file name="56249fd158033380601537_750-crop-u897.jpg" crc="535097542" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="v_r3o8q5pru293x131.jpg" crc="526670393" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_дело1-crop-u507.jpg" crc="4132153716" seo="true" ref="index">
+    <file name="_дело1-crop-u507.jpg" crc="512852763" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="f6a690ecb24011e68a5b525400c97e52-crop-u106.jpg" crc="4170581856" seo="true" ref="index">
@@ -152,7 +151,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="realistic-coca-cola-can-3d-mode546l-obj-3ds-fbx-c4d-u4503.png" crc="3773053010" ref="index"/>
-    <file name="шаблон-a-favicon.ico" crc="3936835358" ref="ya:travel"/>
+    <file name="шаблон-a-favicon.ico" crc="3936835358" ref="ya"/>
     <file name="rostiks.jpg" crc="4104041570" seo="true" ref="ya">
       <caption webpage="ya" alt=""/>
       <caption webpage="ya" alt=""/>
@@ -229,10 +228,11 @@
     <file name="u1359-43.png" crc="4198920876" ref="hate"/>
     <file name="u1362-43.png" crc="3962345543" ref="hate"/>
     <file name="u1363-43.png" crc="3890251992" ref="hate"/>
+    <file name="rostislav.s-favicon.ico" crc="3936835358" ref="index"/>
   </folder>
-  <file name="index.html" crc="497953539" seo="true" mt="1535123553547" redirect="true"/>
+  <file name="index.html" crc="3781818144" seo="true" mt="1535127754024" redirect="true"/>
   <file name="ya.html" crc="4176755796" seo="true" mt="1535123478108" redirect="true"/>
-  <file name="travel.html" crc="491564829" seo="true" mt="1535123657897" redirect="true"/>
+  <file name="travel.html" crc="448048528" seo="true" mt="1535127372080" redirect="true"/>
   <file name="love.html" crc="455266824" seo="true" mt="1535123720257" redirect="true"/>
   <file name="hate.html" crc="432001762" seo="true" mt="1535065248430" redirect="true"/>
 </manifest>
